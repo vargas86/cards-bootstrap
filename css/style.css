@@ -1,0 +1,14 @@
+h2 { }
+
+p {
+    font-size: 0.5 REM;
+}
+
+#card-uno, #card-cuatro {
+    display: flex;
+    align-items: center;
+}
+
+.img-left {
+    
+}
